@@ -40,7 +40,8 @@ apis:
   - name: Football (Soccer) Videos
     description: "Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more"
     humanURL: https://www.scorebat.com/video-api/
-    tags:
+    tags: []
+    tags_raw:
       - Sports And Fitness
     properties:
       - type: Documentation
